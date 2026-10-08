@@ -62,7 +62,7 @@ No database, and data is not saved between sessions
 
 Future work
 
-FastAPI backend and PostgreSQL storage
+FastAPI backend and SQL storage
 Batching for large files and an accuracy evaluation against hand-labeled data
 Anomaly detection and monthly budget alerts
 Bank statement PDF upload
