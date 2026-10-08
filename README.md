@@ -14,7 +14,7 @@ Pandas computes all totals, and the AI only explains them. This avoids made-up n
 
 Screenshots
 [Results](screenshots/results.png)
-Results 2](screenshots/results2.png)
+[Results 2](screenshots/results2.png)
 [Results 3](screenshots/result3.png)
 
 Tech stack
