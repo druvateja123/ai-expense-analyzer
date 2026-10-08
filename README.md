@@ -108,11 +108,6 @@ Then upload `sample\_expenses.csv`.
 
 
 
-\## AI tools used
-
-I used AI coding assistants (Claude) while building this, and I ran and tested the code myself.
-
-
 
 \## Author
 
