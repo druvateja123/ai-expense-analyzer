@@ -42,7 +42,7 @@ Create a `.env` file with your key (get one at aistudio.google.com):
 
 ```
 
-GEMINI\_API\_KEY=your\_key\_here
+GEMINI\_API\_KEY=
 
 ```
 Run
